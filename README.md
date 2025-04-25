@@ -1,15 +1,42 @@
-GitHub Project Summary: Data Analysis on Chocolate Sales
-This project performs exploratory data analysis (EDA) on a dataset containing chocolate sales to uncover insights and trends. Using Python libraries such as Pandas, Matplotlib, and Seaborn, the analysis covers data cleaning, sales trends, customer preferences, and seasonal patterns. The goal is to understand which chocolate products sell best, when they sell, and what factors might influence those trends.
+🍫 Chocolate Sales Data Analysis
+This project explores and analyzes chocolate sales data using Python. Through data cleaning, visualization, and exploratory analysis, we uncover key insights into product performance, regional trends, and sales behavior. The analysis is designed to support decision-making for marketing, product strategy, and supply chain optimization.
 
-Key highlights:
+📌 Objectives
+Clean and prepare the dataset for analysis.
 
-Cleaned and formatted the dataset, including converting date fields and checking for missing or duplicated data.
+Identify high-performing countries, products, and salespeople.
 
-Visualized total sales by product category and region.
+Analyze trends in volume vs. revenue.
 
-Explored monthly and seasonal trends in chocolate purchases.
+Visualize data to reveal patterns in customer preferences and regional sales.
 
-Identified top-performing products and customer segments.
+🛠️ Tools & Libraries
+Python: Data manipulation and analysis
 
-This analysis can help stakeholders make data-driven decisions regarding inventory planning, marketing campaigns, and product development.
+Pandas & NumPy: Data cleaning and preparation
 
+Matplotlib & Seaborn: Data visualization
+
+📈 Key Insights
+Top-performing regions: Certain countries consistently lead in both sales volume and revenue.
+
+Sales efficiency: Some products generate higher revenue per box than others.
+
+High-impact salespeople: The top 10 performers account for a significant portion of total revenue.
+
+Customer preferences: Heatmaps and distribution charts highlight regional differences in product popularity.
+
+📊 Visualizations Included
+Total sales by country
+
+Top salespeople by revenue
+
+Average revenue per box by product
+
+Total boxes shipped by country
+
+Sales distribution per product
+
+Scatter plot of volume vs. revenue
+
+Heatmap of sales by country and product
